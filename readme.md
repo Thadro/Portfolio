@@ -14,3 +14,7 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+To access my Portfolio click on the following link : https://romain-deneuve.com/
+
+
+To access my Trello click on the following link : https://trello.com/b/cXJt51fl/avancement-portfolio
